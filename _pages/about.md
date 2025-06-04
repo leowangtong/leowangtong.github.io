@@ -23,10 +23,7 @@ I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/gro
 My current research focuses on computer vision with Vision Language Models. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 Our paper, "Solving Instance Detection from an Open-World Perspective" has been accepted by CVPR 2025. 
-- *2024.12*: &nbsp;🎉🎉 Our Challenge Workshop "[Object Instance Detection](https://insdet.github.io)" has been held in conjunction with ACCV on December 09, 2024!
-- *2024.06*: &nbsp;🎉🎉 Our Challenge "Object Instance Detection" has been held at "4th Workshop on Visual Perception and Learning in an Open World" in conjunction with CVPR on June 18, 2024!
-- *2023.10*: &nbsp;🎉🎉 Our paper, "A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture" has been accepted by NeurIPS Datasets and Benchmarks Track 2023. 
+- *2024.08*: &nbsp;🎉🎉 Our paper, "DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures" has been accepted by Briefings in Bioinformatics. 
 
 # 📝 Publications 
 
