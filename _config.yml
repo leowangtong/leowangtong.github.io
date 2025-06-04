@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tong Wang"
   avatar           : "images/Profile.jpg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "University of Macau"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BlDZFSIAAAAJ"
-  email            : "shenqq377@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=eJ9-T9sAAAAJ&hl"
+  email            : "leowangtong@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : shenqq377 # e.g., "github username"
+  github           : leowangtong # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/tong-wang-9011b1324/"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
