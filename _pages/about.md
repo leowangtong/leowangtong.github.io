@@ -31,7 +31,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ALOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Active Learning via Vision-Language Model Adaptation with Open Data
+**Active Learning via Vision-Language Model Adaptation with Open Data**
 
 **Tong Wang**, Jiaqi Wang, Shu Kong
 
@@ -47,11 +47,11 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeepEnzyme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures
+**DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures**
 
 **Tong Wang**, Guangming Xiang, Siwei He, Liyun Su, Yuguang Wang, Xuefeng Yan, Hongzhong Lu
 
-[[**Project**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
+[[**Github**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
