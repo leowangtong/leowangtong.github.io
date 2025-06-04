@@ -27,7 +27,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25-insdet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ALOR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Active Learning via Vision-Language Model Adaptation with Open Data
@@ -39,7 +39,7 @@ Active Learning via Vision-Language Model Adaptation with Open Data
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips23-insdet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DeepEnzyme.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures
