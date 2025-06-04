@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Tong Wang"
 description              : "PhD student in Computer Science. "
-repository               : "shenqq377/shenqq377.github.io"
+repository               : "leowangtong/leowangtong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qianqian Shen"
+  name             : "Tong Wang"
   avatar           : "images/Profile.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
