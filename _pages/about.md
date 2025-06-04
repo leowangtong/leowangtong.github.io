@@ -30,11 +30,11 @@ My current research focuses on computer vision with Vision Language Models. Duri
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Solving Instance Detection from an Open-World Perspective
+Active Learning via Vision-Language Model Adaptation with Open Data
 
-**Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
+**Tong Wang**, Jiaqi Wang, Shu Kong
 
-[[**Project**]](https://shenqq377.github.io/IDOW/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2503.00359)
+[[**Project**]](https://leowangtong.github.io/ALOR/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2506.01724)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
@@ -42,17 +42,17 @@ Solving Instance Detection from an Open-World Perspective
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips23-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture](https://proceedings.neurips.cc/paper_files/paper/2023/file/832ea0ff01bd512aab28bf416db9489c-Paper-Datasets_and_Benchmarks.pdf)
+DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures
 
-**Qianqian Shen<sup>*</sup>**, Yunhan Zhao<sup>*</sup>, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong
+**Tong Wang**, Guangming Xiang, Siwei He, Liyun Su, Yuguang Wang, Xuefeng Yan, Hongzhong Lu
 
-[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2310.19257)
+[[**Project**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
 </div>
 
-- [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
-- [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019
+<!-- - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
+- [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019 -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
