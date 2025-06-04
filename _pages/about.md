@@ -37,6 +37,9 @@ Active Learning via Vision-Language Model Adaptation with Open Data
 
 [[**Project**]](https://leowangtong.github.io/ALOR/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2506.01724)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
+
+Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple yet effective method that prioritizes sampling data from underrepresented classes to label. Extensive experiments on standard benchmark datasets demonstrate that our method achieves state-of-the-art performance, significantly surpassing existing methods.
+
 </div>
 </div>
 
