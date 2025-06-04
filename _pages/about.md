@@ -35,6 +35,8 @@ My current research focuses on computer vision with Vision Language Models. Duri
 
 **Tong Wang**, Jiaqi Wang, Shu Kong
 
+*ArXiv*
+
 [[**Project**]](https://leowangtong.github.io/ALOR/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2506.01724)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
@@ -50,6 +52,8 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 **DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures**
 
 **Tong Wang**, Guangming Xiang, Siwei He, Liyun Su, Yuguang Wang, Xuefeng Yan, Hongzhong Lu
+
+*Briefings in Bioinformatics*
 
 [[**Github**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
