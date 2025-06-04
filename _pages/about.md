@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# <font size=6 color=BLUE>This page is under construction...</font>
+% <font size=6 color=BLUE>This page is under construction...</font>
 
 
 I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/).
