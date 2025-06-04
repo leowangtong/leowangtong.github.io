@@ -22,7 +22,7 @@ redirect_from:
 
 I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/).
 
-My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
+My current research focuses on computer vision with Vision Language Models. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 Our paper, "Solving Instance Detection from an Open-World Perspective" has been accepted by CVPR 2025. 
