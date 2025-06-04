@@ -20,7 +20,7 @@ redirect_from:
 <font size=6 color=BLUE>This page is under construction...</font>
 
 
-I am currently a postdoctoral research fellow at Zhejiang University, working with Prof. [Haishuai Wang](https://openreview.net/profile?id=~Haishuai_Wang2). I also work closely with Dr. [Shu Kong](https://aimerykong.github.io/). Before that, I was an assistant research fellow at Zhejiang Lab. I completed my Ph.D. from the University of Edinburgh, supervised by Prof. [David Laurenson](https://scholar.google.co.uk/citations?hl=en&user=jFrg7ikAAAAJ&view_op=list_works&sortby=pubdate). 
+I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/).
 
 My research interests lie in computer vision and machine learning, with a specific focus on instance detection in robotics and transfer learning in healthcare applications.
 
