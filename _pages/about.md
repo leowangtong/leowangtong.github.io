@@ -61,21 +61,8 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 </div>
 </div>
 
-</table>
-	<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-              <tr>
-	      <td style="padding:2.5%;width:63%;vertical-align:middle">
-	      </td>
-              <td style="padding:2.5%;width:63%;vertical-align:middle">
-                <p>
-                 <a href="https://clustrmaps.com/site/1c75q"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=dYQ9UWtg1MM_htS2pzAr0RiYuesmH-C-_n4FZxKFqKI&cl=ffffff" /></a>
-		</p>
-		<p>
-		  Template modified from <a href="https://jonbarron.info/">Jon Barron</a>
-		</p>
-              </td>
-            </tr>
-          </tbody></table>
+<a href="https://clustrmaps.com/site/1c75q"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=dYQ9UWtg1MM_htS2pzAr0RiYuesmH-C-_n4FZxKFqKI&cl=ffffff" /></a>
+
 <!-- - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019 -->
 
