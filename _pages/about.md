@@ -59,9 +59,9 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 [[**Github**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
+</div>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ufhxunIkM1NogkjQdzQ7uwlvWRGNCpC2d4QcvJPBDOc&cl=ffffff&w=a"></script>
-</div>
 
 <!-- - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019 -->
