@@ -45,6 +45,7 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 </div>
 </div>
 
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/DeepEnzyme.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DeepEnzyme.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,6 +59,8 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 [[**Github**]](https://github.com/hongzhonglu/DeepEnzyme) &nbsp;&nbsp; [[**Paper**]](https://academic.oup.com/bib/article/25/5/bbae409/7736248)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 </div>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ufhxunIkM1NogkjQdzQ7uwlvWRGNCpC2d4QcvJPBDOc&cl=ffffff&w=a"></script>
 </div>
 
 <!-- - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
