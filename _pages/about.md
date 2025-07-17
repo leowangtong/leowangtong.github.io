@@ -68,7 +68,7 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 	      </td>
               <td style="padding:2.5%;width:63%;vertical-align:middle">
                 <p>
-                  <a href='https://clustrmaps.com/site/1c6d7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=ufhxunIkM1NogkjQdzQ7uwlvWRGNCpC2d4QcvJPBDOc&co=ffffff&ct=808080'/></a>
+                 <a href="https://clustrmaps.com/site/1c75q"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=dYQ9UWtg1MM_htS2pzAr0RiYuesmH-C-_n4FZxKFqKI&cl=ffffff" /></a>
 		</p>
 		<p>
 		  Template modified from <a href="https://jonbarron.info/">Jon Barron</a>
