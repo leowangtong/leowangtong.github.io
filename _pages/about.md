@@ -28,7 +28,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ALOR.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paracosm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paracosm_radar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**
@@ -37,7 +37,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 
 *arXiv*
 
-[[**Project**]](https://leowangtong.github.io/ALOR/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2506.01724)
+[[**Github**]](https://github.com/leowangtong/Paracosm) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/abs/2602.00813)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
 Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple yet effective method that prioritizes sampling data from underrepresented classes to label. Extensive experiments on standard benchmark datasets demonstrate that our method achieves state-of-the-art performance, significantly surpassing existing methods.
@@ -55,7 +55,7 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 
 *arXiv*
 
-[[**Github**]](https://github.com/leowangtong/Paracosm) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/abs/2602.00813)
+[[**Project**]](https://leowangtong.github.io/ALOR/) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/pdf/2506.01724)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
 We address zero-shot composed image retrieval (ZS-CIR) from first principles and propose the training-free method Paracosm, which generates “mental image” / synthetic proxy for multimodal queries to facilitate matching with dataset images. Further, to mitigate the synthetic-to-real domain gaps, it generates synthetic counterparts for database images and performs multimodal-to-multimodal matching between (1) the combined textual and synthetic visual of the query and (2) the combined synthetic and real database images. Over four challenging benchmarks, Paracosm resoundingly outperforms existing ZS-CIR methods.
