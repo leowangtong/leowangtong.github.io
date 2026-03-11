@@ -28,7 +28,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ALOR.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paracosm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Paracosm_radar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**
