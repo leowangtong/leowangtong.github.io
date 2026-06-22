@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD student in the [Computer Vision Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/).
+I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/). 
 
 My current research focuses on computer vision with Vision Language Models. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
-<!-- # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our paper, "DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures" has been accepted by Briefings in Bioinformatics.  -->
+# 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV 2026.
+- *2024.08*: &nbsp;🎉🎉 Our paper, "DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures" has been accepted by Briefings in Bioinformatics.
 
 # 📝 Publications 
 
@@ -35,7 +36,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 
 **Tong Wang**, Yunhan Zhao, Shu Kong
 
-*arXiv*
+*ECCV 2026*
 
 [[**Github**]](https://github.com/leowangtong/Paracosm) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/abs/2602.00813)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
