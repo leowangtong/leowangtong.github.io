@@ -80,7 +80,7 @@ Our novel Tail First Sampling (TFS) strategy for AL, an embarrassingly simple ye
 </div>
 </div>
 
-<a href="https://clustrmaps.com/site/1c75q"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=dYQ9UWtg1MM_htS2pzAr0RiYuesmH-C-_n4FZxKFqKI&cl=ffffff" /></a>
+<a href="https://mapmyvisitors.com/web/1c5qz"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=GvkFCwG4C_B7h4-UPyZUlTL6zFZEeGpZfnOqDb46bKI&cl=ffffff" /></a>
 
 <!-- - [Q-Net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), **Qianqian Shen**, Yanan Li, Jiyong Jin, Bin Liu. Intellisys. 2023.
 - [A dynamic feature fusion strategy for magnetic field and wi-fi based indoor positioning](https://ieeexplore.ieee.org/abstract/document/8911798), Yichen Du, Tughrul Arslan, **Qianqian Shen**. IPIN. 2019 -->
