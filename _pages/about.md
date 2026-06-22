@@ -23,7 +23,7 @@ I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io
 My current research focuses on computer vision with Vision Language Models. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV 2026.
+- *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV'26.
 - *2024.08*: &nbsp;🎉🎉 Our paper, "DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures" has been accepted by Briefings in Bioinformatics.
 
 # 📝 Publications 
