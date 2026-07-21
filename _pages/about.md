@@ -24,6 +24,7 @@ My current research focuses on computer vision with Vision Language Models. Duri
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV'26.
+- *2026.06*: &nbsp;🎉🎉 Our Challenge, "[Automated Species Annotation](https://huggingface.co/spaces/autoexpert-cvpr2026-workshop/ASA2026)" has been held at "[the 1st workshop on AutoExpert](https://autoexpert-arena.github.io/)" in conjunction with CVPR 2026.
 - *2024.08*: &nbsp;🎉🎉 Our paper, "DeepEnzyme: a robust deep learning model for improved enzyme turnover number prediction by utilizing features of protein 3D-structures" has been accepted by Briefings in Bioinformatics.
 
 # 📝 Publications 
