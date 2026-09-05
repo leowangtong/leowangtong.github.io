@@ -18,9 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/). 
+I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io/group.html) in [FST](https://www.fst.um.edu.mo/), [University of Macau](https://www.um.edu.mo/), advised by [Prof. Shu Kong](https://aimerykong.github.io/index.html). Prior to joining the University of Macau, I pursued my master's degree under the supervision of [Prof.Hongzhong Lu](https://scholar.google.com/citations?user=USIYK_gAAAAJ&hl=zh-CN) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/). 
+<!-- I earned my Master’s degree in Statistics from [Chongqing University of Technology](https://math.cqut.edu.cn/) and received my Bachelor’s degree in Engineering from [Tongji University](https://aero-mech.tongji.edu.cn/).  -->
 
-My current research focuses on computer vision with Vision Language Models. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
+My current research focuses on computer vision with Vision Language Models, Composed Image Retrieval, and Instance-level perception. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
+
+🎯🎯 ***I am actively looking for research intern positions.***
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV'26.
