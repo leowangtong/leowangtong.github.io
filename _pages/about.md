@@ -23,8 +23,7 @@ I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io
 
 My current research focuses on computer vision with Vision Language Models, Composed Image Retrieval, and Instance-level perception. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
-🎯🎯 ***I am actively looking for research intern positions.*** Email: [leowangtong@gmail.com](leowangtong@gmail.com)
-
+🎯🎯 ***I am actively looking for research intern positions.*** Email: [leowangtong@gmail.com]
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV'26.
 - *2026.06*: &nbsp;🎉🎉 Our Challenge, "[Automated Species Annotation](https://huggingface.co/spaces/autoexpert-cvpr2026-workshop/ASA2026)" has been held at "[the 1st workshop on AutoExpert](https://autoexpert-arena.github.io/)" in conjunction with CVPR 2026.
