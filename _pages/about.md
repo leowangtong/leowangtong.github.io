@@ -23,7 +23,7 @@ I am a PhD student in the [Visual Intelligence Lab](https://aimerykong.github.io
 
 My current research focuses on computer vision with Vision Language Models, Composed Image Retrieval, and Instance-level perception. During my Master's studies, my research focuses on AI4Bio. At that time, I focused specifically on predicting protein function by designing models that leverage both protein sequences and 3D structural data.
 
-🎯🎯 ***I am actively looking for research intern positions.*** Email: leowangtong@gmail.com
+🎯🎯 ***I am actively looking for research intern positions.*** Email: [leowangtong@gmail.com](leowangtong@gmail.com)
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉🎉 Our paper, "Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval" has been accepted by ECCV'26.
@@ -42,7 +42,7 @@ My current research focuses on computer vision with Vision Language Models, Comp
 
 *ECCV 2026*
 
-[[**Github**]](https://github.com/leowangtong/Paracosm) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/abs/2602.00813) &nbsp;&nbsp; [[**Slides**]]([https://arxiv.org/abs/2602.00813](https://github.com/leowangtong/Paracosm/blob/main/Slides_Paracosm.pdf)) &nbsp;&nbsp; [[**Poster**]]([https://arxiv.org/abs/2602.00813](https://github.com/leowangtong/Paracosm/blob/main/eccv_paracosm_poster.pdf)) &nbsp;&nbsp; [[**Video**]](https://youtu.be/Z9Xvi7ADRnc?si=fw0NC1d9jh-BJCfR)
+[[**Github**]](https://github.com/leowangtong/Paracosm) &nbsp;&nbsp; [[**Paper**]](https://arxiv.org/abs/2602.00813) &nbsp;&nbsp; [[**Slides**]](https://github.com/leowangtong/Paracosm/blob/main/Slides_Paracosm.pdf) &nbsp;&nbsp; [[**Poster**]](https://github.com/leowangtong/Paracosm/blob/main/eccv_paracosm_poster.pdf) &nbsp;&nbsp; [[**Video**]](https://youtu.be/Z9Xvi7ADRnc?si=fw0NC1d9jh-BJCfR)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> 
 
 We address zero-shot composed image retrieval (ZS-CIR) from first principles and propose the training-free method, Paracosm, which generates “mental image” for multimodal queries to facilitate matching with dataset images. Further, to mitigate the synthetic-to-real domain gaps, it generates synthetic counterparts for database images and performs multimodal-to-multimodal matching between (1) the combined textual and synthetic visual of the query and (2) the combined synthetic and real database images.
